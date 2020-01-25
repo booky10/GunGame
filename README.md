@@ -1,0 +1,2 @@
+# GunGame
+A GunGame plugin

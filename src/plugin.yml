@@ -1,0 +1,14 @@
+name: GunGame
+main: tk.t11e.gungame.main.Main
+version: '1.0'
+api-version: '1.15'
+author: booky10
+description: The GunGame plugin for T11E
+prefix: GunGame
+website: https://t11e.tk
+load: POSTWORLD
+commands:
+  gunGame:
+    usage: 'Usage: /gunGame <setLoc1|setLoc2|setSpawn|upgrade>'
+    description: The main command for GunGame
+    permission: gunGame
